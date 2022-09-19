@@ -1,5 +1,7 @@
 _WHATCH OUT: Both the readme and the repo itself are a work in progress!_
 
+_This project is currently been developed by Bastiaan Laarakker (https://github.com/BasLaa) and Matteo Becatti (https://github.com/meloncruuush)_
+
 # ChocoPy v2.2 Compiler
 
 ## What is Chocopy?
